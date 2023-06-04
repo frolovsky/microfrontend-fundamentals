@@ -106,6 +106,7 @@ dist
 dist
 
 .DS_Store
+.idea
 
 localhost.crt
 localhost.key
